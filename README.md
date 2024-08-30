@@ -1,6 +1,3 @@
-
----
-
 # EmbeddedStandardSecureProgramming
 
 Welcome to the **Embedded Standard Secure Programming** repository! This repository contains a collection of essential documents and style guides aimed at promoting best practices in embedded systems programming, particularly in C and C++. These documents are invaluable for developers looking to adhere to industry standards and write secure, maintainable, and efficient code.
