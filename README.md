@@ -38,7 +38,7 @@ To get started with these documents:
 
 1. **Clone the Repository**: Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/EmbeddedStandardSecureProgramming.git
+   git clone https://github.com/Mohamadkhosravi/EmbeddedStandardSecureProgramming.git
    ```
    
 2. **Access the Documents**: Navigate to the cloned repository directory and open the desired PDF file with any compatible PDF reader.
